@@ -1,3 +1,0 @@
-function CreateCanvas()
-
-endfunction
